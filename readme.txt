@@ -28,4 +28,16 @@ PROJECTS:
    - Scans real-world objects and builds a 3D computer model
    - STL file output for usein 3D printing
 
+
+
+
+FUTURE PROJECTS:
+
+- LED lightz 2.0
+
+SERVER
+    - file sharing
+    - printer control
+    - central brain of apartment
     
+

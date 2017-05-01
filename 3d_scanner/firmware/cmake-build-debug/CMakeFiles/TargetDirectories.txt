@@ -1,0 +1,10 @@
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/RedBoardTesting.dir
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/Users/Joey/2214_codebase/3d_scanner/firmware/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
